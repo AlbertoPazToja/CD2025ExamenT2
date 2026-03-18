@@ -99,8 +99,8 @@ public class PedidoService {
         return nomeTienda;
     }
 
-    public void setnomeTienda(String nomeTienda) {
-        this.nomeTienda = nomeTienda;
+    public void setnomeTienda(String nomeTenda) {
+        this.nomeTienda = nomeTenda;
     }
 
 }

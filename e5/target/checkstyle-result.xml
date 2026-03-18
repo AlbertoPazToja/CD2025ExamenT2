@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.45.1">
 <file name="/home/vagrant/Desktop/CD2025ExamenT2/e5/src/main/java/com/example/PedidoService.java">
-<error line="102" column="38" severity="error" message="&apos;nomeTienda&apos; oculta un campo." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
 </file>
 </checkstyle>
